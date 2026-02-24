@@ -1,0 +1,249 @@
+{
+    "Relationships": {
+        "\u5e03\u5e03 - \u4e00\u4e8c": "Parent-Child"
+    },
+    "Internal Chain-of-Thought": {
+        "Core Narrative Structure": "The synopsis consists of two main acts: the visit to the art gallery and the dumpling-making scene at home. Each act is divided into significant beats that highlight the parent-child interaction and the emotional connection between \u5e03\u5e03 and \u4e00\u4e8c.",
+        "Key Character Information": "The major characters are \u5e03\u5e03 and \u4e00\u4e8c. \u5e03\u5e03 is the parent, guiding and teaching \u4e00\u4e8c, who is curious and eager to learn. Their relationship is central to both scenes.",
+        "Temporal Segmentation": "The timeline is linear and straightforward. The first scene happens on a sunny afternoon at the art gallery, followed by a domestic scene in the kitchen later that day.",
+        "Sub-Script Breakdown Criteria": "Each sub-script captures a distinct moment or emotional beat within the scenes, ensuring a natural progression while maintaining at least 50 words per sub-script.",
+        "Division": "The division is justified by changes in location, activity, and focus within the narrative, each sub-script capturing a unique aspect of \u5e03\u5e03 and \u4e00\u4e8c's interaction."
+    },
+    "Sub-Script": {
+        "Sub-Script 1": {
+            "Plot": "\u5e03\u5e03\u548c\u4e00\u4e8c\u5728\u4e00\u4e2a\u9633\u5149\u660e\u5a9a\u7684\u4e0b\u5348\uff0c\u6765\u5230\u4e86\u5e02\u4e2d\u5fc3\u7684\u827a\u672f\u9986\uff0c\u4ed6\u4eec\u5728\u5c55\u5385\u91cc\u4e00\u8fb9\u6b23\u8d4f\u753b\u4f5c\uff0c\u4e00\u8fb9\u7528\u624b\u673a\u8bb0\u5f55\u4e0b\u8fd9\u6bb5\u4eb2\u5b50\u65f6\u5149\u3002\u5e03\u5e03\u7275\u7740\u4e00\u4e8c\u7684\u5c0f\u624b\uff0c\u6162\u6162\u5730\u5728\u5c55\u5385\u91cc\u8d70\u52a8\uff0c\u65f6\u4e0d\u65f6\u9a7b\u8db3\u5728\u67d0\u5e45\u753b\u4f5c\u524d\uff0c\u4f4e\u58f0\u4ea4\u6d41\u7740\u611f\u60f3\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Sunny afternoon",
+            "Reason for Division": "Introduces the setting and establishes the parent-child dynamic as they enter the art gallery.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The narrative is structured around a single act, focusing on a day in the life of \u5e03\u5e03 and \u4e00\u4e8c as they visit an art gallery. The core of the scene is the bonding experience between the parent and child, highlighted by their interactions and shared appreciation of art.",
+                    "Key Scene Elements": "The key characters are \u5e03\u5e03 and \u4e00\u4e8c. The scene revolves around their interactions as they explore the art gallery. The meaningful events include their discussions about the art and the capturing of moments on a phone, symbolizing the importance of their relationship and the memories created.",
+                    "Scene Boundaries": "The scene begins with \u5e03\u5e03 and \u4e00\u4e8c entering the art gallery on a sunny afternoon. It ends with them continuing their exploration, having shared a meaningful experience. This division highlights the shift from the external world to the intimate, reflective space within the gallery.",
+                    "Cinematic Elements for Each Scene": "The scene is set in an art gallery with a warm, intimate atmosphere. Visual elements include the interplay of sunlight and shadow, the vibrant colors of the artwork, and the tender interaction between parent and child. The emotional tone is heartwarming and introspective. Music should be soft and melodic, enhancing the reflective nature of the scene. Cinematography should focus on close-ups of the characters' interactions, detailed shots of the artwork, and wide shots to capture the gallery's ambiance."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u5e03\u5e03 and \u4e00\u4e8c visit the city art gallery on a sunny afternoon. They admire the paintings and record their experience, sharing thoughts in low voices while moving slowly through the exhibit.",
+                        "Scene Description": "The art gallery is filled with natural light, casting soft shadows on the floor. Paintings of various styles and colors adorn the walls. \u5e03\u5e03 gently holds \u4e00\u4e8c's hand as they explore, stopping occasionally to discuss and appreciate the art.",
+                        "Emotional Tone": "Heartwarming and introspective",
+                        "Visual Style": "Warm lighting with vibrant colors from the paintings, soft shadows, and a cozy atmosphere",
+                        "Key Props": [
+                            "Smartphone"
+                        ],
+                        "Music and Sound Effects": "Soft, melodic background music with ambient sounds of a quiet gallery",
+                        "Cinematography Notes": "Use close-ups to capture expressions and interactions, detailed shots of paintings, and wide shots to convey the gallery's space"
+                    }
+                }
+            }
+        },
+        "Sub-Script 2": {
+            "Plot": "\u4e00\u4e8c\u5219\u65f6\u800c\u62ac\u5934\u770b\u753b\uff0c\u65f6\u800c\u62ff\u51fa\u5c0f\u753b\u518c\u6a21\u4eff\u753b\u4e2d\u7684\u5143\u7d20\uff0c\u663e\u5f97\u5341\u5206\u8ba4\u771f\u3002\u955c\u5934\u5efa\u8bae\uff1a1. \u4e2d\u666f\uff1a\u5e03\u5e03\u548c\u4e00\u4e8c\u7ad9\u5728\u827a\u672f\u9986\u95e8\u53e3\uff0c\u80cc\u666f\u662f\u827a\u672f\u9986\u7684\u5927\u95e8\u548c\u6807\u5fd7\uff0c\u5e03\u5e03\u4f4e\u5934\u5bf9\u4e00\u4e8c\u8bf4\u7740\u4ec0\u4e48\uff0c\u4e00\u4e8c\u5219\u62ac\u5934\u770b\u7740\u5e03\u5e03\uff0c\u8138\u4e0a\u6ee1\u662f\u671f\u5f85\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Same afternoon",
+            "Reason for Division": "Focuses on \u4e00\u4e8c's perspective and their interaction, enhancing the emotional tone of curiosity and learning.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The narrative revolves around a visit to an art gallery, focusing on the interactions between \u5e03\u5e03 and \u4e00\u4e8c. The core acts involve the setup (arriving at the gallery), confrontation (engaging with the art), and resolution (emotional takeaway and learning experience).",
+                    "Key Scene Elements": "The key characters are \u5e03\u5e03 and \u4e00\u4e8c. Their interaction is central, with \u5e03\u5e03 in a guiding role and \u4e00\u4e8c in a learning and imitative role. The art gallery setting and \u4e00\u4e8c's actions with the sketchbook are crucial events.",
+                    "Scene Boundaries": "The scene starts with the characters at the gallery entrance, a clear starting point. It transitions into the gallery's interior as \u4e00\u4e8c interacts with the art. The scene ends with a captured moment of reflection or learning.",
+                    "Cinematic Elements for Each Scene": "The scene is set in an art gallery, characterized by a tranquil and inspiring atmosphere. The emotional tone is one of curiosity and learning. The visual style adheres to a cute, cartoonish aesthetic consistent with \u5e03\u5e03\u4e00\u4e8c style. Key props include \u4e00\u4e8c's sketchbook. Sound effects should be subtle, with ambient gallery sounds and soft, uplifting music. Cinematography should include medium shots of interactions and close-ups on sketchbook details."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u5e03\u5e03 and \u4e00\u4e8c arrive at the art gallery. \u5e03\u5e03 is speaking to \u4e00\u4e8c, who listens eagerly.",
+                        "Scene Description": "The scene opens with \u5e03\u5e03 and \u4e00\u4e8c standing at the entrance of an art gallery. \u5e03\u5e03 is looking down at \u4e00\u4e8c, explaining something as \u4e00\u4e8c gazes up, filled with anticipation.",
+                        "Emotional Tone": "Anticipation and excitement",
+                        "Visual Style": "Cartoonish and cute, with bright colors and soft edges",
+                        "Key Props": [
+                            "Art gallery entrance"
+                        ],
+                        "Music and Sound Effects": "Soft, cheerful music with the ambient sound of an art gallery",
+                        "Cinematography Notes": "Medium shot of \u5e03\u5e03 and \u4e00\u4e8c at the gallery entrance, focusing on their expressions"
+                    },
+                    "Scene 2": {
+                        "Involving Characters": [
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "Inside the gallery, \u4e00\u4e8c observes the paintings and begins to mimic elements in their sketchbook, displaying concentration.",
+                        "Scene Description": "Inside the gallery, \u4e00\u4e8c is captivated by the paintings, occasionally looking up to study them and then down to sketch in their small book.",
+                        "Emotional Tone": "Curiosity and concentration",
+                        "Visual Style": "Soft, warm lighting highlighting the art pieces and \u4e00\u4e8c's focused expression",
+                        "Key Props": [
+                            "\u5c0f\u753b\u518c",
+                            "Paintings"
+                        ],
+                        "Music and Sound Effects": "Gentle, classical music playing in the background",
+                        "Cinematography Notes": "Close-ups of \u4e00\u4e8c's hands sketching and the paintings they are inspired by, with occasional wide shots showing the gallery space"
+                    }
+                }
+            }
+        },
+        "Sub-Script 3": {
+            "Plot": "2. \u5168\u666f\uff1a\u4e24\u4eba\u8fdb\u5165\u5c55\u5385\uff0c\u955c\u5934\u626b\u8fc7\u5c55\u5385\u5185\u7684\u753b\u4f5c\u548c\u7a00\u758f\u7684\u53c2\u89c2\u8005\uff0c\u5c55\u73b0\u51fa\u827a\u672f\u9986\u7684\u6c1b\u56f4\u30023. \u7279\u5199\uff1a\u5e03\u5e03\u7684\u624b\u7275\u7740\u4e00\u4e8c\u7684\u5c0f\u624b\uff0c\u955c\u5934\u805a\u7126\u5728\u4e24\u4eba\u7684\u624b\u4e0a\uff0c\u663e\u793a\u51fa\u4eb2\u5bc6\u7684\u4eb2\u5b50\u5173\u7cfb\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Same afternoon",
+            "Reason for Division": "Highlights the setting and the intimate bond through visual storytelling, emphasizing the art gallery's atmosphere.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The script synopsis suggests a structured narrative with an introduction to the setting and an exploration of character dynamics. The core acts can be identified as: Setup (introduction to the art gallery and its ambiance), Confrontation (the exploration of the relationship between \u5e03\u5e03 and \u4e00\u4e8c through physical contact), and Resolution (implied through the emotional connection).",
+                    "Key Scene Elements": "The key characters are \u5e03\u5e03 and \u4e00\u4e8c, with their relationship being central to the scenes. The first scene establishes the setting and mood, while the second scene focuses on their intimate relationship. The meaningful elements include the art gallery setting, the sparse audience, and the close-up of the characters' hands, symbolizing their bond.",
+                    "Scene Boundaries": "The first scene ends naturally with the establishment of the gallery's atmosphere, transitioning into a more intimate focus in the second scene. The division is justified by the shift from a broad setting to a personal moment, emphasizing their relationship.",
+                    "Cinematic Elements for Each Scene": "The first scene uses wide shots to capture the grandeur and calm of the gallery, with ambient sound to set the tone. The second scene shifts to a close-up, highlighting the characters' relationship with soft lighting and a gentle musical cue. The visual style is consistent with a cartoon/cute aesthetic, enhancing the emotional impact."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u5e03\u5e03 and \u4e00\u4e8c enter an art gallery, with the camera sweeping over the paintings and sparse visitors, establishing the gallery's ambiance.",
+                        "Scene Description": "The art gallery is spacious and quiet, with walls adorned with paintings. The camera pans slowly, capturing the serene atmosphere and the occasional visitor.",
+                        "Emotional Tone": "Calm and contemplative",
+                        "Visual Style": "Soft, warm lighting with a cute cartoon aesthetic. Gentle colors to maintain a soothing atmosphere.",
+                        "Key Props": [
+                            "Paintings"
+                        ],
+                        "Music and Sound Effects": "Soft ambient music with distant murmurs of visitors.",
+                        "Cinematography Notes": "Wide shots to capture the full scope of the gallery, slow panning to create a sense of calm and space."
+                    },
+                    "Scene 2": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "A close-up of \u5e03\u5e03 holding \u4e00\u4e8c's hand, focusing on the intimacy and warmth of their parent-child relationship.",
+                        "Scene Description": "The camera zooms in on their hands, capturing the gentle grip and warmth between them. The background blurs slightly to emphasize their connection.",
+                        "Emotional Tone": "Intimate and warm",
+                        "Visual Style": "Close-up framing with soft focus, maintaining a cute and heartwarming aesthetic.",
+                        "Key Props": [
+                            "Hands"
+                        ],
+                        "Music and Sound Effects": "Soft, tender music that underscores the emotional connection.",
+                        "Cinematography Notes": "Close-up shots to highlight the hands, with a shallow depth of field to blur the background and focus on the characters' bond."
+                    }
+                }
+            }
+        },
+        "Sub-Script 4": {
+            "Plot": "4. \u4e2d\u666f\uff1a\u5e03\u5e03\u548c\u4e00\u4e8c\u7ad9\u5728\u4e00\u5e45\u753b\u4f5c\u524d\uff0c\u5e03\u5e03\u6307\u7740\u753b\u4e2d\u67d0\u4e2a\u7ec6\u8282\uff0c\u4e00\u4e8c\u8ba4\u771f\u5730\u770b\u7740\uff0c\u65f6\u4e0d\u65f6\u70b9\u5934\u30025. \u7279\u5199\uff1a\u4e00\u4e8c\u62ff\u51fa\u5c0f\u753b\u518c\uff0c\u6a21\u4eff\u753b\u4e2d\u7684\u5143\u7d20\uff0c\u955c\u5934\u805a\u7126\u5728\u4e00\u4e8c\u8ba4\u771f\u4f5c\u753b\u7684\u5c0f\u8138\u4e0a\uff0c\u80cc\u666f\u662f\u6a21\u7cca\u7684\u753b\u4f5c\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Same afternoon",
+            "Reason for Division": "Captures the interactive learning process, demonstrating \u5e03\u5e03's guidance and \u4e00\u4e8c's engagement with art.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The script appears to be part of a larger story, potentially in the middle act where character development and exploration of themes occur. The scenes focus on the interaction between the characters \u5e03\u5e03 and \u4e00\u4e8c, emphasizing their relationship and shared activities.",
+                    "Key Scene Elements": "The key elements include \u5e03\u5e03 and \u4e00\u4e8c interacting in front of a painting, and \u4e00\u4e8c's artistic engagement. The scenes highlight their bond through shared appreciation of art and imitation. The emotional beats revolve around learning and admiration.",
+                    "Scene Boundaries": "The scenes are divided based on actions and focus shifts: first, a shared observation of art, then \u4e00\u4e8c's personal engagement with painting. These natural breaks allow for individual exploration of characters and their dynamics.",
+                    "Cinematic Elements for Each Scene": "The scenes should reflect a warm, educational atmosphere with an emphasis on close-knit relationships. The visuals should focus on the painting and \u4e00\u4e8c's expressions, with a playful, colorful palette typical of the '\u5e03\u5e03\u4e00\u4e8c' style."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u5e03\u5e03 and \u4e00\u4e8c stand in front of a painting. \u5e03\u5e03 points out a detail in the painting, and \u4e00\u4e8c attentively observes, occasionally nodding.",
+                        "Scene Description": "The scene takes place in an art gallery with \u5e03\u5e03 and \u4e00\u4e8c engaging with a painting. The environment is calm and inviting, filled with soft lighting.",
+                        "Emotional Tone": "Inquisitive and Appreciative",
+                        "Visual Style": "Colorful and bright with a focus on the painting's details and the characters' interactions.",
+                        "Key Props": [
+                            "Painting"
+                        ],
+                        "Music and Sound Effects": "Soft, gentle background music with occasional sounds of admiration and curiosity.",
+                        "Cinematography Notes": "Medium shots capturing both characters and the painting. Use of focus shifts to highlight \u5e03\u5e03's pointing gesture and \u4e00\u4e8c's nodding."
+                    },
+                    "Scene 2": {
+                        "Involving Characters": [
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u4e00\u4e8c takes out a small sketchbook and begins to mimic elements from the painting. The camera focuses on \u4e00\u4e8c's concentrated expression with the painting blurred in the background.",
+                        "Scene Description": "The focus is on \u4e00\u4e8c deeply immersed in drawing, showcasing their dedication and creativity. The background is a soft blur of the painting.",
+                        "Emotional Tone": "Focused and Creative",
+                        "Visual Style": "Close-up and detailed, capturing \u4e00\u4e8c's facial expressions and movements.",
+                        "Key Props": [
+                            "Sketchbook",
+                            "Pencil"
+                        ],
+                        "Music and Sound Effects": "Quiet and serene with subtle pencil sketching sounds.",
+                        "Cinematography Notes": "Close-up shots of \u4e00\u4e8c's face and hands. Use of shallow depth of field to keep the background painting soft and abstract."
+                    }
+                }
+            }
+        },
+        "Sub-Script 5": {
+            "Plot": "\u5728\u4e00\u4e2a\u6e29\u6696\u7684\u5bb6\u5ead\u53a8\u623f\u91cc\uff0c\u5e03\u5e03\u548c\u4e00\u4e8c\u6b63\u5728\u4e00\u8d77\u5305\u997a\u5b50\u3002\u9633\u5149\u900f\u8fc7\u7a97\u6237\u6d12\u5728\u4ed6\u4eec\u8eab\u4e0a\uff0c\u5e03\u5e03\u8d1f\u8d23\u548c\u9762\u548c\u64c0\u76ae\uff0c\u800c\u4e00\u4e8c\u5219\u4e13\u6ce8\u4e8e\u5305\u9985\uff0c\u6700\u540e\u4e24\u4eba\u4e00\u8d77\u6367\u7740\u4e00\u76d8\u5305\u597d\u7684\u997a\u5b50\uff0c\u6ee1\u8138\u7b11\u5bb9\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Later that day",
+            "Reason for Division": "Transitions to the domestic scene, setting the stage for the dumpling-making activity, reflecting warmth and cooperation.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The synopsis suggests a simple narrative focused on a single scene within the Setup act. The scene captures a familial bonding moment between the characters \u5e03\u5e03 and \u4e00\u4e8c as they engage in a shared activity of making dumplings. The scene naturally concludes with a shared accomplishment and emotional resolution signified by their smiles.",
+                    "Key Scene Elements": "The key elements involve \u5e03\u5e03 and \u4e00\u4e8c making dumplings together. \u5e03\u5e03's role is to prepare the dough and roll out the skins, while \u4e00\u4e8c focuses on filling the dumplings. The interaction is centered around cooperation and familial love, culminating in a shared moment of joy.",
+                    "Scene Boundaries": "The entire synopsis describes one cohesive scene set in a kitchen. The natural breaks are defined by task completion (e.g., making dough, filling dumplings) and the emotional climax of their shared achievement. The scene serves to establish character relationships and mood.",
+                    "Cinematic Elements for Each Scene": "The scene is set in a warm, sunlit kitchen with a focus on the tactile and intimate process of making dumplings. The emotional tone is heartwarming and joyful. The visual style should be bright and soft, consistent with the cute cartoon style of \u5e03\u5e03\u4e00\u4e8c. Key props include dough, rolling pin, and dumplings. Sound effects should include gentle kitchen sounds and soft background music to enhance the warmth. Cinematography should include close-ups of hands at work, medium shots of characters smiling, and wide shots capturing the sunny kitchen setting."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "In a warm family kitchen, \u5e03\u5e03 and \u4e00\u4e8c make dumplings together. \u5e03\u5e03 handles the dough while \u4e00\u4e8c focuses on the filling. They finish by holding a plate of dumplings with smiles.",
+                        "Scene Description": "The kitchen is filled with sunlight streaming through the window, highlighting the cozy atmosphere. \u5e03\u5e03 is rolling dough on the counter, and \u4e00\u4e8c is carefully placing filling into dumpling skins. Their expressions are concentrated and joyful.",
+                        "Emotional Tone": "Heartwarming and joyful",
+                        "Visual Style": "Bright and soft, with a focus on tactile close-ups and medium shots of the characters",
+                        "Key Props": [
+                            "dough",
+                            "rolling pin",
+                            "dumplings"
+                        ],
+                        "Music and Sound Effects": "Gentle kitchen sounds with soft, warm background music",
+                        "Cinematography Notes": "Use close-ups on hands working with dough and filling, medium shots for character expressions, and wide shots to capture the sunlit kitchen setting"
+                    }
+                }
+            }
+        },
+        "Sub-Script 6": {
+            "Plot": "\u5e03\u5e03\u5728\u53a8\u623f\u7684\u64cd\u4f5c\u53f0\u524d\uff0c\u53cc\u624b\u7528\u529b\u63c9\u6413\u9762\u56e2\uff0c\u52a8\u4f5c\u6709\u529b\u800c\u6d41\u7545\uff0c\u63a5\u7740\u7528\u64c0\u9762\u6756\u5c06\u9762\u56e2\u64c0\u6210\u5706\u5706\u7684\u997a\u5b50\u76ae\uff0c\u52a8\u4f5c\u8f7b\u5feb\u800c\u719f\u7ec3\u3002\u4e00\u4e8c\u5750\u5728\u65c1\u8fb9\u7684\u684c\u5b50\u524d\uff0c\u5c0f\u5fc3\u7ffc\u7ffc\u5730\u7528\u52fa\u5b50\u5c06\u9985\u6599\u653e\u5728\u9762\u76ae\u4e2d\u592e\uff0c\u7136\u540e\u7528\u624b\u6307\u7075\u5de7\u5730\u634f\u51fa\u4e00\u4e2a\u4e2a\u997a\u5b50\uff0c\u52a8\u4f5c\u7ec6\u81f4\u800c\u4e13\u6ce8\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Later that day",
+            "Reason for Division": "Details the dumpling-making process, emphasizing the teamwork and individual contributions of \u5e03\u5e03 and \u4e00\u4e8c."
+        },
+        "Sub-Script 7": {
+            "Plot": "\u6700\u540e\uff0c\u4e24\u4eba\u7ad9\u5728\u4e00\u8d77\uff0c\u53cc\u624b\u6367\u7740\u4e00\u76d8\u997a\u5b50\uff0c\u8138\u4e0a\u6d0b\u6ea2\u7740\u6ee1\u8db3\u7684\u7b11\u5bb9\u3002\u955c\u5934\u5efa\u8bae\uff1a1. \u4e2d\u666f\uff1a\u5e03\u5e03\u5728\u64cd\u4f5c\u53f0\u524d\u63c9\u9762\uff0c\u5c55\u73b0\u4ed6\u7684\u52a8\u4f5c\u6d41\u7545\u4e0e\u4e13\u6ce8\u30022. \u7279\u5199\uff1a\u5e03\u5e03\u64c0\u9762\u76ae\u7684\u624b\u90e8\u52a8\u4f5c\uff0c\u6355\u6349\u64c0\u9762\u6756\u4e0e\u9762\u56e2\u7684\u7ec6\u8282\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Later that day",
+            "Reason for Division": "Concludes the scene with a sense of achievement and happiness, highlighting the successful completion of their task."
+        }
+    }
+}

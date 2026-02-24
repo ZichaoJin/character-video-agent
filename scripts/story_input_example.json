@@ -1,0 +1,16 @@
+{
+  "story_title": "匹兹堡之旅",
+  "characters": ["布布", "一二"],
+  "events": [
+    {
+      "title": "我和宝宝一起去逛艺术馆啦",
+      "image_paths": [],
+      "caption": "可选：艺术馆展厅、看画、合影。有图时填 image_paths，如 [\"events/art1.jpg\", \"events/art2.jpg\"]"
+    },
+    {
+      "title": "宝宝给我包饺子啦",
+      "image_paths": [],
+      "caption": "可选：和面、擀皮、包馅、双手捧着饺子。有图时填 image_paths"
+    }
+  ]
+}

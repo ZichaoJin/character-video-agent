@@ -1,0 +1,1083 @@
+{
+    "Relationships": {
+        "\u5e03\u5e03 - \u4e00\u4e8c": "Friends or possibly romantic partners"
+    },
+    "Internal Chain-of-Thought": {
+        "Core Narrative Structure": "The script is divided into two main acts: the visit to the art museum and the scene in the kitchen. Each act contains distinct plot beats and transitions, such as taking selfies at the museum and making dumplings at home.",
+        "Key Character Information": "The major characters are \u5e03\u5e03 and \u4e00\u4e8c. They share a close, possibly romantic relationship, indicated by their shared activities and intimate gestures.",
+        "Temporal Segmentation": "The script implies a progression from the museum visit to the kitchen scene without explicit time cues, suggesting a continuous timeline within a single day.",
+        "Sub-Script Breakdown Criteria": "The script is divided based on significant scene transitions, such as moving from the art museum to the kitchen, and changes in focus, such as from selfies to specific art pieces.",
+        "Division": "Each division aligns with natural breaks in the story, such as a shift from the museum to the kitchen, ensuring that each sub-script is self-contained and preserves narrative flow."
+    },
+    "Sub-Script": {
+        "Sub-Script 1": {
+            "Plot": "\u5728\u4e00\u4e2a\u5bd2\u51b7\u7684\u51ac\u65e5\uff0c\u5e03\u5e03\u548c\u4e00\u4e8c\u6765\u5230\u5361\u5185\u57fa\u827a\u672f\u9986\u4eab\u53d7\u827a\u672f\u4e4b\u65c5\u3002\u5e03\u5e03\u7a7f\u7740\u51ac\u88c5\uff0c\u624b\u63d0\u8d2d\u7269\u888b\uff0c\u4e0e\u4e00\u4e8c\u5728\u955c\u5b50\u524d\u62cd\u4e0b\u5408\u5f71\uff1b\u4e00\u4e8c\u5219\u9760\u5728\u5e03\u5e03\u8eab\u8fb9\uff0c\u624b\u91cc\u62ff\u7740\u5916\u5957\uff0c\u80cc\u666f\u662f\u7433\u7405\u6ee1\u76ee\u7684\u827a\u672f\u4f5c\u54c1\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Cold winter day",
+            "Reason for Division": "This sub-script introduces the setting and the characters' activity at the art museum, establishing their close relationship.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The synopsis represents the setup of a story, focusing on a single event in the lives of \u5e03\u5e03 and \u4e00\u4e8c. The key act here is the Setup, where \u5e03\u5e03 and \u4e00\u4e8c are introduced in an art gallery setting. There are no major turning points within this brief narrative, and the scene stands as a self-contained unit with a clear beginning (arrival at the gallery) and end (taking a photo together in front of the artwork).",
+                    "Key Scene Elements": "Characters involved are \u5e03\u5e03 and \u4e00\u4e8c. They are friends or possibly romantic partners, which sets a warm and intimate tone. The critical event is their visit to the Carnegie Art Gallery, and the emotional beats involve capturing a memory together in front of art, signifying their shared experience.",
+                    "Scene Boundaries": "The scene is naturally bounded by the location\u2014the art gallery\u2014and by the activity of taking a photograph. This division is appropriate as it encapsulates the entire activity and emotional expression of the characters in a single location.",
+                    "Cinematic Elements for Each Scene": "The scene is indoors, capturing the warmth against the cold winter outside. The atmosphere is intimate and reflective. Lighting should be soft to highlight the warmth between the characters and the art's vibrancy. Key props include \u5e03\u5e03's shopping bag and \u4e00\u4e8c's coat. A gentle, classical music piece would enhance the gallery setting. Cinematography should include close-ups of \u5e03\u5e03 and \u4e00\u4e8c, wide shots of the gallery, and detail shots of their hands and the photograph-taking process."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u5e03\u5e03 and \u4e00\u4e8c visit the Carnegie Art Museum on a cold winter's day. They explore the art gallery, and \u5e03\u5e03, dressed in winter clothes and carrying a shopping bag, takes a photo with \u4e00\u4e8c, who holds a coat, in front of the artwork.",
+                        "Scene Description": "The art gallery is filled with vibrant artworks. \u5e03\u5e03 and \u4e00\u4e8c are close, reflecting warmth in the cold. \u5e03\u5e03's winter attire contrasts with the colorful art, while \u4e00\u4e8c leans in, creating a tender moment captured on camera.",
+                        "Emotional Tone": "Warmth and intimacy",
+                        "Visual Style": "Bright, colorful art contrasts with the cozy winter attire. Soft, diffused lighting enhances emotional closeness.",
+                        "Key Props": [
+                            "Shopping bag",
+                            "Coat"
+                        ],
+                        "Music and Sound Effects": "Soft classical music plays in the background, adding an air of sophistication and tranquility.",
+                        "Cinematography Notes": "Use close-ups to capture \u5e03\u5e03 and \u4e00\u4e8c's expressions. Include wide shots of the gallery's grandeur. Detail shots focus on hands holding the coat and camera.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene is broken down into moments: entering the gallery, exploring artworks, capturing an intimate photo, and details of key actions like holding the coat and taking photos.",
+                                "Shot Composition and Framing": "Use wide shots for the gallery's grandeur, close-ups for emotional expressions, and detail shots for hands with props. Frame compositions to include vibrant artworks and maintain focus on warmth.",
+                                "Character Positioning & Bounding Boxes": "\u5e03\u5e03 and \u4e00\u4e8c should be positioned to emphasize their connection without exceeding bounding box constraints. Ensure they are centered when necessary to highlight interactions.",
+                                "Emotional Impact": "Warm lighting, soft focus, and close-ups enhance the intimacy and warmth between characters. Vibrant art in the background contrasts with winter attire, enhancing visual storytelling.",
+                                "Camera Techniques and Movements": "Use static shots for stability in intimate moments, slight pans for exploring the gallery, and no movement for detail shots to enhance focus.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "\u5e03\u5e03 and \u4e00\u4e8c stand side by side in the Carnegie Art Museum's vibrant gallery, surrounded by colorful abstract paintings. \u5e03\u5e03 wears a winter coat and holds a shopping bag, while \u4e00\u4e8c leans in holding a coat, reflecting a tender connection.",
+                                    "Coarse Plot": "two people in art gallery, side by side",
+                                    "Emotional Enhancement": "Warm lighting highlights their closeness amidst the vibrant art, creating a sense of intimacy.",
+                                    "Shot Type": "medium shot",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of \u5e03\u5e03's hands holding a camera, framed against a backdrop of colorful artwork. The camera captures a moment of intimacy and warmth in the cold winter setting.",
+                                    "Coarse Plot": "close-up of hands holding a camera",
+                                    "Emotional Enhancement": "Focus on hands and camera conveys the moment's significance, with warm lighting emphasizing emotional warmth.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Wide shot of the Carnegie Art Museum gallery, showcasing the grandeur of the space with vibrant artworks lining the walls. The scene contrasts the cold winter outside with the warmth inside.",
+                                    "Coarse Plot": "wide shot of art gallery",
+                                    "Emotional Enhancement": "The contrast between the cold outside and the vibrant, warm interior enhances the emotional tone.",
+                                    "Shot Type": "wide shot",
+                                    "Camera Movement": "slight pan",
+                                    "Subtitles": {}
+                                },
+                                "Shot 4": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "A close-up of \u5e03\u5e03 and \u4e00\u4e8c's faces, capturing their expressions as they share a moment of joy and warmth, with \u5e03\u5e03 gently leaning towards \u4e00\u4e8c.",
+                                    "Coarse Plot": "close-up of two faces",
+                                    "Emotional Enhancement": "Soft focus on their expressions emphasizes intimacy and connection.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 5": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Detail shot of \u4e00\u4e8c's hands holding a coat, highlighting the tactile connection and warmth in the cold winter environment.",
+                                    "Coarse Plot": "detail of hands holding coat",
+                                    "Emotional Enhancement": "The focus on touch and texture enhances the feeling of warmth and care.",
+                                    "Shot Type": "detail shot",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 2": {
+            "Plot": "\u968f\u540e\uff0c\u4ed6\u4eec\u5728\u5c55\u5385\u4e2d\u7ee7\u7eed\u81ea\u62cd\uff0c\u5e03\u5e03\u624b\u6301\u8d2d\u7269\u888b\uff0c\u4e00\u4e8c\u5219\u5bf9\u955c\u5934\u6446\u51fa\u4fcf\u76ae\u7684\u59ff\u52bf\uff0c\u5899\u4e0a\u6302\u7740\u5f15\u4eba\u6ce8\u76ee\u7684\u827a\u672f\u4f5c\u54c1\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Continuing the same day",
+            "Reason for Division": "This sub-script focuses on their playful interaction and further establishes the art museum setting.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The script snippet is part of the confrontation act, focusing on a light-hearted and intimate moment between the characters within an art exhibition setting. The scene functions as a narrative pause, emphasizing character dynamics and adding depth to their relationship.",
+                    "Key Scene Elements": "\u5e03\u5e03 and \u4e00\u4e8c are the only characters involved, indicating a focus on their interaction. The scene captures them taking selfies in an exhibition, highlighting their friendship and playful rapport. The presence of notable artworks serves as a backdrop, adding cultural and visual interest.",
+                    "Scene Boundaries": "The scene is naturally bounded by the location (art exhibition) and activity (selfies), offering a cohesive and self-contained moment that contrasts with potentially more plot-driven or dramatic scenes.",
+                    "Cinematic Elements for Each Scene": "The scene's atmosphere is playful and relaxed, with visual emphasis on the characters and the art around them. The cute and cartoonish style aligns with the characters of \u5e03\u5e03 and \u4e00\u4e8c, enhancing the scene's charm. Props like the shopping bag add a layer of casual realism, while music and sound effects should underscore the light-hearted tone."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u5e03\u5e03 and \u4e00\u4e8c are in an art exhibition, taking selfies. \u5e03\u5e03 holds a shopping bag while \u4e00\u4e8c strikes a playful pose. Notable artworks adorn the walls.",
+                        "Scene Description": "The art exhibition is presented with vibrant artworks that draw the eye. \u5e03\u5e03 and \u4e00\u4e8c are the focal point, animated and lively, as they capture the moment with the camera.",
+                        "Emotional Tone": "Playful and intimate",
+                        "Visual Style": "Cute and cartoonish, consistent with \u5e03\u5e03 and \u4e00\u4e8c's style, with warm and inviting colors to enhance the playful atmosphere.",
+                        "Key Props": [
+                            "Shopping bag",
+                            "Camera/Phone"
+                        ],
+                        "Music and Sound Effects": "Soft, cheerful background music with the faint chatter of an exhibition for ambiance.",
+                        "Cinematography Notes": "Use close-ups on \u5e03\u5e03 and \u4e00\u4e8c's faces as they pose and take selfies, intercut with wider shots of the exhibition to capture the setting. Incorporate playful camera angles to reflect the lighthearted mood.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "Identify key moments: \u5e03\u5e03 and \u4e00\u4e8c taking selfies, \u5e03\u5e03 holding a shopping bag, artworks on the walls, and playful interactions. Use distinct shots for each moment.",
+                                "Shot Composition and Framing": "Mix close-ups for capturing emotions and wide shots for setting. Use playful angles to enhance the intimate and lively mood. Key props like the shopping bag and camera should be visible.",
+                                "Character Positioning & Bounding Boxes": "Ensure \u5e03\u5e03 and \u4e00\u4e8c are well-framed, using bounding boxes that do not overlap and are as large as possible. The bounding boxes should not exceed an interpolation of 0.5.",
+                                "Emotional Impact": "Enhance playfulness with vibrant lighting and playful camera angles. Maintain continuity in the exhibition background to reinforce the intimate atmosphere.",
+                                "Camera Techniques and Movements": "Use static shots for close-ups to focus on expressions, and dynamic angles for wide shots to engage the audience. Incorporate playful angles and slight camera movements.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "\u5e03\u5e03 and \u4e00\u4e8c stand side by side in the art exhibition, smiling at the camera. \u5e03\u5e03 holds a shopping bag while \u4e00\u4e8c strikes a playful pose. Bright artworks adorn the walls.",
+                                    "Coarse Plot": "two people taking selfies in an exhibition",
+                                    "Emotional Enhancement": "The playful pose and vibrant artworks enhance the lighthearted mood.",
+                                    "Shot Type": "medium shot",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of \u5e03\u5e03's hand holding a shopping bag, showcasing the intricate design of the bag. The background features a blurred view of vibrant artworks, enhancing the playful atmosphere in \u5e03\u5e03\u4e00\u4e8c cartoon style.",
+                                    "Coarse Plot": "close-up of hand holding shopping bag",
+                                    "Emotional Enhancement": "The intricate design and vibrant background emphasize the playful tone.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.15,
+                                            0.07,
+                                            0.48,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.52,
+                                            0.05,
+                                            0.91,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "Close-up of \u5e03\u5e03 and \u4e00\u4e8c's faces as they look at the camera, grinning with excitement. \u5e03\u5e03's eyes sparkle, and \u4e00\u4e8c's playful expression adds to the lively mood. The background features soft, colorful lighting.",
+                                    "Coarse Plot": "close-up of two faces smiling at the camera",
+                                    "Emotional Enhancement": "The close-up captures their excitement and playful expressions intimately.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 4": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Wide shot of the exhibition hall, showcasing the vibrant artworks on the walls. The lighting is soft and colorful, creating an inviting and energetic atmosphere in \u5e03\u5e03\u4e00\u4e8c style.",
+                                    "Coarse Plot": "wide shot of exhibition hall with artworks",
+                                    "Emotional Enhancement": "The wide shot emphasizes the vibrant setting, enhancing the playful tone.",
+                                    "Shot Type": "wide shot",
+                                    "Camera Movement": "slight pan",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 3": {
+            "Plot": "\u9996\u5148\uff0c\u955c\u5934\u5207\u81f3\u5361\u5185\u57fa\u827a\u672f\u9986\u5185\uff0c\u7279\u5199\u5e03\u5e03\u548c\u4e00\u4e8c\u5728\u955c\u5b50\u524d\u7684\u5408\u5f71\uff0c\u955c\u5934\u805a\u7126\u4e8e\u4e24\u4eba\u8138\u4e0a\u7684\u7b11\u5bb9\uff0c\u5c55\u793a\u4ed6\u4eec\u7684\u4eb2\u5bc6\u5173\u7cfb\u3002\u63a5\u7740\uff0c\u955c\u5934\u62c9\u8fdc\uff0c\u8f6c\u4e3a\u4e2d\u666f\uff0c\u5c55\u73b0\u4e24\u4eba\u8eab\u540e\u7684\u827a\u672f\u4f5c\u54c1\uff0c\u7a81\u663e\u51fa\u9986\u5185\u7684\u827a\u672f\u6c1b\u56f4\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Same day, museum visit",
+            "Reason for Division": "This sub-script provides a visual and emotional focus on the characters' relationship within the museum context.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The narrative appears to be part of the Setup, introducing the characters \u5e03\u5e03 and \u4e00\u4e8c in a specific setting that suggests their relationship and connection to the location. The scene sets a tone of intimacy and art appreciation.",
+                    "Key Scene Elements": "Characters: \u5e03\u5e03, \u4e00\u4e8c; Their interaction is central, with a focus on their mutual smiles hinting at their close relationship. The setting in the art museum adds cultural context and depth.",
+                    "Scene Boundaries": "The scene naturally commences with the close-up on the characters and transitions to a medium shot that introduces the art museum environment, indicating a shift from personal to broader contextual focus.",
+                    "Cinematic Elements for Each Scene": "The scene should blend personal emotional moments with the cultural ambiance of the art museum, using close-ups and medium shots to transition focus effectively."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u5e03\u5e03 and \u4e00\u4e8c are at the Carnegie Art Museum, taking a photo together in front of a mirror. The focus is on their smiles, indicating a close relationship.",
+                        "Scene Description": "The scene opens with a close-up of \u5e03\u5e03 and \u4e00\u4e8c smiling into a mirror, capturing their reflection. The camera then zooms out to a medium shot, revealing the art pieces behind them, highlighting the museum's artistic atmosphere.",
+                        "Emotional Tone": "Warm and intimate",
+                        "Visual Style": "Cartoon/cute style consistent with \u300c\u5e03\u5e03\u4e00\u4e8c\u300d, with soft lighting to emphasize warmth and connection.",
+                        "Key Props": [
+                            "Mirror",
+                            "Art exhibits"
+                        ],
+                        "Music and Sound Effects": "Gentle, uplifting music with ambient museum sounds in the background.",
+                        "Cinematography Notes": "Start with a tight close-up on the characters' reflections, then zoom out to a medium shot to include the artistic setting. Use soft focus on the art pieces to maintain the characters as the focal point.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "Identify two key shots: a close-up of \u5e03\u5e03 and \u4e00\u4e8c's reflections in the mirror, followed by a medium shot that includes art exhibits. Ensure transitions maintain emotional warmth.",
+                                "Shot Composition and Framing": "Begin with a close-up shot of their reflections, focusing on smiles. Transition to a medium shot framing both characters and art pieces, adhering to rule of thirds.",
+                                "Character Positioning & Bounding Boxes": "In the close-up, focus entirely on the characters' reflections. In the medium shot, position characters centrally with exhibits in the background, maintaining bounding boxes within specified constraints.",
+                                "Emotional Impact": "Use warm lighting and soft focus on backgrounds to highlight the warm and intimate tone, keeping focus on the characters' expressions.",
+                                "Camera Techniques and Movements": "Start with a static close-up, then zoom out smoothly to a medium shot, ensuring a seamless transition that maintains focus on characters.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "The scene opens with a close-up of \u5e03\u5e03 and \u4e00\u4e8c smiling into a mirror. Their reflections capture their joyful expressions, emphasizing their close relationship. A warm glow bathes their faces, making the moment feel cozy and intimate.",
+                                    "Coarse Plot": "close-up of two smiling into a mirror",
+                                    "Emotional Enhancement": "Warm lighting and focus on smiles enhance the intimate, joyful atmosphere.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.2,
+                                            0.1,
+                                            0.55,
+                                            0.85
+                                        ],
+                                        "Character 2": [
+                                            0.6,
+                                            0.1,
+                                            0.95,
+                                            0.85
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "The camera zooms out to a medium shot, revealing \u5e03\u5e03 and \u4e00\u4e8c standing side by side in front of the mirror, with art exhibits softly blurred in the background. The museum atmosphere adds a cultural depth, while their smiles remain the focal point.",
+                                    "Coarse Plot": "medium shot of two with art in background",
+                                    "Emotional Enhancement": "Soft focus on art highlights characters' warmth and connection.",
+                                    "Shot Type": "medium",
+                                    "Camera Movement": "zoom out",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 4": {
+            "Plot": "\u7136\u540e\uff0c\u955c\u5934\u5207\u6362\u5230\u5c55\u5385\uff0c\u7279\u5199\u4e00\u4e8c\u7684\u4fcf\u76ae\u59ff\u52bf\uff0c\u5e03\u5e03\u5728\u65c1\u8fb9\u5fae\u7b11\uff0c\u955c\u5934\u6355\u6349\u5230\u80cc\u666f\u5899\u4e0a\u7684\u827a\u672f\u4f5c\u54c1\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Same day, museum visit",
+            "Reason for Division": "This sub-script highlights \u4e00\u4e8c's playful character and the artistic environment of the museum.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The scene fits within the setup act of a movie, introducing characters and setting. The focus is on establishing relationships and mood through art and interaction.",
+                    "Key Scene Elements": "Characters involved are \u5e03\u5e03 and \u4e00\u4e8c. Their interactions are light-hearted and friendly, suggesting a possible deeper bond. The background wall art plays a significant role in setting the scene.",
+                    "Scene Boundaries": "The natural break is the shift to the exhibition hall, focusing on the characters' playful demeanor and the art in the background, marking the scene's start and end.",
+                    "Cinematic Elements for Each Scene": "The scene captures playfulness and warmth, with visuals emphasizing cuteness and artistic background. The mood is light and cheerful, with a possible romantic undertone."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "The camera transitions to the exhibition hall, capturing \u4e00\u4e8c in a playful pose while \u5e03\u5e03 smiles beside them, with a focus on the art on the background wall.",
+                        "Scene Description": "The scene is set in an art exhibition hall, with \u5e03\u5e03 and \u4e00\u4e8c interacting playfully. The background wall art adds depth and context to their relationship.",
+                        "Emotional Tone": "Playful and light-hearted",
+                        "Visual Style": "Cartoon/cute style with warm colors, highlighting the characters' expressions and the artistic backdrop.",
+                        "Key Props": [
+                            "Art exhibits",
+                            "Background wall"
+                        ],
+                        "Music and Sound Effects": "Light, cheerful music with soft ambient gallery sounds.",
+                        "Cinematography Notes": "Close-up on \u4e00\u4e8c's playful pose, \u5e03\u5e03's smile, and the background art. Ensure a mix of medium shots for character interactions and detailed shots of the art.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene is divided into key shots: medium shot of characters interacting playfully, close-up of \u4e00\u4e8c's playful pose and \u5e03\u5e03's smile, and a detail shot of the art exhibits in the background.",
+                                "Shot Composition and Framing": "A mixture of medium and close-up shots will capture the playful interaction, focusing on facial expressions and the background art. Framing will use the rule of thirds to balance characters and props.",
+                                "Character Positioning & Bounding Boxes": "Characters will be positioned in normalized bounding boxes that do not exceed interpolation of 0.5, ensuring they are clearly visible without overlap.",
+                                "Emotional Impact": "Playful and light-hearted emotions will be enhanced through warm lighting and soft focus, particularly in close-ups of facial expressions and detailed art shots.",
+                                "Camera Techniques and Movements": "Static shots will maintain focus on the interaction, while subtle pans may be used to capture the background art. A mix of medium and close-up shots will be used.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "In a medium shot, \u5e03\u5e03 and \u4e00\u4e8c stand side by side in the art exhibition hall. \u4e00\u4e8c strikes a playful pose, while \u5e03\u5e03 smiles warmly. The background wall features vibrant art that adds context to their light-hearted interaction.",
+                                    "Coarse Plot": "two people standing in exhibition hall, playful interaction",
+                                    "Emotional Enhancement": "Warm lighting and the natural smiles of characters enhance the playful and light-hearted tone.",
+                                    "Shot Type": "medium",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.2,
+                                            0.2,
+                                            0.7,
+                                            0.7
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "Close-up of \u4e00\u4e8c striking a playful pose, their expression full of joy and mischief. The focus on \u4e00\u4e8c's face captures the essence of their playful character, with a soft focus on the art behind.",
+                                    "Coarse Plot": "close-up of playful pose",
+                                    "Emotional Enhancement": "The close-up captures \u4e00\u4e8c's joyful expression, enhancing the playful tone with warm lighting.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.3,
+                                            0.3,
+                                            0.8,
+                                            0.8
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "Close-up of \u5e03\u5e03's smile, conveying warmth and affection. The soft focus gently blurs the art in the background, emphasizing \u5e03\u5e03's friendly demeanor.",
+                                    "Coarse Plot": "close-up of smile",
+                                    "Emotional Enhancement": "The warmth of \u5e03\u5e03's smile is highlighted with soft lighting, reinforcing the light-hearted atmosphere.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 4": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Detail shot of the art exhibits on the background wall, in \u5e03\u5e03\u4e00\u4e8c cartoon style. The vibrant colors and abstract forms add depth and context to the playful scene.",
+                                    "Coarse Plot": "detailed shot of art exhibits",
+                                    "Emotional Enhancement": "The vibrant art enhances the playful atmosphere, with its colors and forms adding visual interest.",
+                                    "Shot Type": "detail",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 5": {
+            "Plot": "\u6700\u540e\uff0c\u955c\u5934\u8f6c\u5411\u4e00\u5e45\u73b0\u4ee3\u62bd\u8c61\u753b\u4f5c\uff0c\u7279\u5199\u753b\u4f5c\u4e2d\u7684\u51e0\u4f55\u56fe\u5f62\u548c\u6a59\u8272\u7ec6\u8282\uff0c\u5f3a\u8c03\u827a\u672f\u9986\u7684\u4e30\u5bcc\u591a\u5f69\u4e0e\u73b0\u4ee3\u611f\u3002",
+            "Involving Characters": [],
+            "Timeline": "Same day, museum visit",
+            "Reason for Division": "This sub-script shifts focus to the art itself, providing depth to the setting and a pause from the character interaction.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The script focuses on a single scene that represents a blend of resolution and thematic culmination. The scene is an artistic exploration that captures the modern and colorful essence of an art gallery, creating a moment of reflection and appreciation.",
+                    "Key Scene Elements": "The scene involves an art piece as the focal element, with the abstract painting featuring geometric shapes and orange details. Although the characters \u5e03\u5e03 and \u4e00\u4e8c are not explicitly mentioned in action, their relationship as friends or romantic partners provides a backdrop to the appreciation of the art, suggesting shared experiences or discussions.",
+                    "Scene Boundaries": "The scene is bounded by the introduction and exploration of the art piece, transitioning to a focused examination of its details. The shift from a wide view to a close-up acts as a natural boundary, emphasizing the transition from general to specific appreciation.",
+                    "Cinematic Elements for Each Scene": "The scene should focus on the visual splendor and emotional resonance of the artwork. The atmosphere is modern and vibrant, with a hint of intimacy as the abstract painting is examined closely. The visual style should be consistent with the cartoon/cute aesthetic of \u5e03\u5e03 and \u4e00\u4e8c, employing soft lighting and warm colors to bring out the artistic details. Music and sound should enhance the feeling of wonder and introspection."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "The scene captures a moment in an art gallery, focused on a modern abstract painting. The characters \u5e03\u5e03 and \u4e00\u4e8c may be observing the artwork, reflecting on its geometric shapes and vibrant orange details.",
+                        "Scene Description": "The camera pans across the gallery's modern ambiance, finally settling on an abstract painting. The painting's geometric shapes and orange highlights are captured in a detailed close-up, showcasing the gallery's colorful and contemporary essence.",
+                        "Emotional Tone": "Reflective and Appreciative",
+                        "Visual Style": "Cartoon/cute style with soft lighting, warm color grading to highlight the painting's details.",
+                        "Key Props": [
+                            "Modern abstract painting"
+                        ],
+                        "Music and Sound Effects": "Soft, ambient music playing in the background, enhancing the reflective mood.",
+                        "Cinematography Notes": "Begin with a wide shot of the gallery, transitioning to a close-up on the painting. Use slow tracking shots to convey a sense of exploration and appreciation. Focus on capturing the intricate details of the artwork.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene starts with a wide shot of the gallery to establish the setting and ambiance. It then transitions to a shot of characters \u5e03\u5e03 and \u4e00\u4e8c observing the painting, capturing their reflective expressions. Finally, a close-up of the painting highlights its intricate geometric shapes and vibrant colors.",
+                                "Shot Composition and Framing": "Use a wide shot to capture the gallery's modern ambiance and then medium shots for the characters to focus on their reflections. Close-ups on the painting will emphasize its detailed artistry. Maintain the rule of thirds in framing.",
+                                "Character Positioning & Bounding Boxes": "Characters will be positioned with bounding boxes that highlight their engagement with the painting. Ensure their positioning suggests a contemplative interaction with the artwork, while the painting itself is captured separately in a close-up.",
+                                "Emotional Impact": "The reflective and appreciative tone is enhanced by lingering shots and soft lighting, which invite the audience to explore the painting alongside the characters. The close-up on the artwork emphasizes the emotion of appreciation.",
+                                "Camera Techniques and Movements": "Start with a static wide shot, then use a slow pan to transition to a medium shot of the characters. A slow dolly-in to the close-up of the painting enhances the sense of exploration.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Wide shot of the gallery showing its modern ambiance with various artworks adorning the walls. The shot sets the scene with a sense of sophistication and contemporary art.",
+                                    "Coarse Plot": "wide shot of modern gallery",
+                                    "Emotional Enhancement": "The wide shot creates an initial sense of awe and exploration, inviting viewers into the art gallery.",
+                                    "Shot Type": "wide shot",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "Medium shot of \u5e03\u5e03 and \u4e00\u4e8c standing side by side, gazing thoughtfully at a modern abstract painting. Their expressions reflect a sense of contemplation and appreciation for the art.",
+                                    "Coarse Plot": "two people observing a painting",
+                                    "Emotional Enhancement": "The medium shot allows focus on the characters' expressions, enhancing the reflective and appreciative mood.",
+                                    "Shot Type": "medium shot",
+                                    "Camera Movement": "slow pan",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of the modern abstract painting, highlighting its geometric shapes and vibrant orange details. The intricate details convey the colorful and contemporary essence of the artwork.",
+                                    "Coarse Plot": "close-up of abstract painting",
+                                    "Emotional Enhancement": "The close-up draws attention to the painting's details, fostering a deeper appreciation for the art.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "slow dolly-in",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 6": {
+            "Plot": "\u5728\u4e00\u4e2a\u6e29\u99a8\u7684\u53a8\u623f\u91cc\uff0c\u5e03\u5e03\u548c\u4e00\u4e8c\u6b63\u5728\u5305\u997a\u5b50\u3002\u5e03\u5e03\u5f00\u5fc3\u5730\u5c55\u793a\u5979\u521a\u5b8c\u6210\u7684\u997a\u5b50\uff0c\u800c\u4e00\u4e8c\u5219\u4e13\u6ce8\u5730\u7ee7\u7eed\u51c6\u5907\u66f4\u591a\u7684\u997a\u5b50\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03",
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Same day, later",
+            "Reason for Division": "This sub-script transitions to a new setting, introducing a domestic and intimate scene in the kitchen.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The synopsis suggests a single scene setup involving a simple, warm activity of dumpling making, falling under the Setup act of the narrative. The scene is self-contained, focusing on character interaction and showcasing a slice-of-life moment, with the emotional undertone suggesting warmth and companionship.",
+                    "Key Scene Elements": "Characters involved are \u5e03\u5e03 and \u4e00\u4e8c. \u5e03\u5e03 is displaying her work with enthusiasm, while \u4e00\u4e8c is focused on the task, highlighting their complementary dynamic. The scene's meaning stems from their interaction, showcasing their relationship through a shared, intimate activity.",
+                    "Scene Boundaries": "The scene naturally begins and ends within the kitchen setting, with the activity of dumpling making as a focal point. The boundary is marked by the completion of the dumpling-making task, emphasizing their emotional connection.",
+                    "Cinematic Elements for Each Scene": "The scene's warmth is conveyed through cozy lighting and close-up shots of the dumplings and characters\u2019 hands. The emotional tone is light-hearted and affectionate. Bright, pastel colors enhance the cartoon style, and soft background music with the sounds of cooking complements the setting. Cinematography involves a mix of medium and close-up shots to capture detailed actions and expressions."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "In a cozy kitchen, \u5e03\u5e03 happily shows off her freshly made dumplings, while \u4e00\u4e8c diligently continues to prepare more.",
+                        "Scene Description": "The kitchen is warm and inviting, filled with the aroma of freshly made dumplings. \u5e03\u5e03 is animated, her eyes sparkling as she proudly displays her creations. \u4e00\u4e8c is focused, yet a small smile shows his enjoyment of the activity and company.",
+                        "Emotional Tone": "Warm and affectionate",
+                        "Visual Style": "Cartoonish with bright, pastel colors and soft lighting to match the cute style.",
+                        "Key Props": [
+                            "Dumplings",
+                            "Cooking utensils"
+                        ],
+                        "Music and Sound Effects": "Soft, cheerful background music with sounds of cooking and gentle clinking of utensils.",
+                        "Cinematography Notes": "Use medium shots to capture the kitchen setting, close-ups on \u5e03\u5e03's hands and dumplings, and \u4e00\u4e8c's focused expression. Occasional wide shots to show the dynamic between the two characters.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene is broken into key shots capturing \u5e03\u5e03's pride in her dumplings, \u4e00\u4e8c's focus and enjoyment, and the cozy kitchen setting. Shots transition between character expressions, actions, and the atmosphere of the kitchen.",
+                                "Shot Composition and Framing": "The scene will use a mix of medium, close-up, and wide shots. Medium shots for kitchen setting, close-ups on key props and expressions, and wide shots for showing dynamics. Framing will follow the rule of thirds.",
+                                "Character Positioning & Bounding Boxes": "Characters are positioned to maximize focus on their expressions and actions. \u5e03\u5e03 and \u4e00\u4e8c will be in separate shots or positioned on opposite sides to ensure bounding boxes do not overlap.",
+                                "Emotional Impact": "Warm lighting and depth of field will enhance the cozy and affectionate tone. Focus on facial expressions and interactions with props to convey emotion.",
+                                "Camera Techniques and Movements": "Static shots for close-ups to focus on details, subtle pans for medium shots to capture the setting, and slight zooms for wide shots to show interactions.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "\u5e03\u5e03 and \u4e00\u4e8c stand in the cozy kitchen. \u5e03\u5e03 proudly holds a plate of dumplings, her eyes sparkling. \u4e00\u4e8c remains focused on preparing more, a small smile on his face.",
+                                    "Coarse Plot": "two people in kitchen, one showing dumplings",
+                                    "Emotional Enhancement": "Warm lighting and soft focus enhance the inviting and affectionate atmosphere.",
+                                    "Shot Type": "medium shot",
+                                    "Camera Movement": "slight pan",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of \u5e03\u5e03's hands holding a plate of beautifully arranged dumplings, warm lighting accentuates the golden-brown color, \u5e03\u5e03\u4e00\u4e8c cartoon style.",
+                                    "Coarse Plot": "close-up of hands holding dumplings, cute cartoon style",
+                                    "Emotional Enhancement": "Warm lighting adds a sense of comfort and pride in \u5e03\u5e03's handiwork.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.15,
+                                            0.1,
+                                            0.45,
+                                            0.9
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "Close-up of \u4e00\u4e8c's face as he concentrates on making dumplings, a small smile indicating his enjoyment, \u5e03\u5e03\u4e00\u4e8c cartoon style.",
+                                    "Coarse Plot": "close-up of focused face with smile",
+                                    "Emotional Enhancement": "Soft lighting highlights \u4e00\u4e8c's expression, enhancing the sense of enjoyment and focus.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 4": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Wide shot of the entire kitchen, showing \u5e03\u5e03 and \u4e00\u4e8c in their respective activities. The room is filled with cooking utensils and the aroma of fresh dumplings, \u5e03\u5e03\u4e00\u4e8c cartoon style.",
+                                    "Coarse Plot": "wide shot of kitchen with two people",
+                                    "Emotional Enhancement": "The wide shot captures the warm, inviting atmosphere and the collaborative dynamic between \u5e03\u5e03 and \u4e00\u4e8c.",
+                                    "Shot Type": "wide shot",
+                                    "Camera Movement": "slight zoom",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 7": {
+            "Plot": "\u63a5\u7740\uff0c\u573a\u666f\u8f6c\u5230\u73b0\u4ee3\u6e29\u99a8\u7684\u5ba2\u5385\u4e2d\uff0c\u4e00\u53cc\u624b\u8f7b\u8f7b\u6367\u7740\u4e24\u4e2a\u521a\u5305\u597d\u7684\u997a\u5b50\uff0c\u80cc\u666f\u4e2d\u7684\u5bbd\u5927\u7a97\u6237\u5916\u9690\u7ea6\u53ef\u89c1\u57ce\u5e02\u7684\u591c\u666f\u3002",
+            "Involving Characters": [],
+            "Timeline": "Same day, evening",
+            "Reason for Division": "This sub-script provides a visual transition to the living room, with a focus on the completed dumplings and the night cityscape.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The synopsis provides a snapshot of a moment in the story, likely in the Setup or Confrontation act. This moment captures a serene domestic scene with a potential significance to the relationship between the characters.",
+                    "Key Scene Elements": "Characters include \u5e03\u5e03 and \u4e00\u4e8c. The interaction revolves around the act of making dumplings, symbolizing domestic harmony or emotional connection. The city nightscape adds context to the setting.",
+                    "Scene Boundaries": "The scene is defined by the location (modern living room) and specific action (holding dumplings), with the city nightscape as a natural backdrop. The focus on dumplings suggests a pause in narrative, emphasizing character interaction.",
+                    "Cinematic Elements for Each Scene": "The scene will be warm and cozy with a focus on gentle, intimate actions. Lighting will be soft to highlight the calmness and intimacy. Key props include dumplings and the window showing the city nightscape."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "In a modern and cozy living room, a pair of hands gently cradles two freshly made dumplings, with the expansive window subtly revealing the city's night view.",
+                        "Scene Description": "The room is warmly lit, creating a serene and intimate atmosphere. The focus is on the hands holding the dumplings, suggesting a tender moment shared between the characters.",
+                        "Emotional Tone": "Serene and intimate",
+                        "Visual Style": "Soft lighting with a warm color palette, emphasizing intimacy and tranquility. The '\u5e03\u5e03\u4e00\u4e8c' cartoon style will maintain a cute and endearing appeal.",
+                        "Key Props": [
+                            "Dumplings",
+                            "Window showing city nightscape"
+                        ],
+                        "Music and Sound Effects": "Gentle, soothing background music with faint city sounds to underscore the peacefulness.",
+                        "Cinematography Notes": "Close-up on hands holding dumplings, wide shot to incorporate the cityscape through the window, tracking shots to follow any slight movement or interaction between characters.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene will include a close-up of hands holding dumplings to highlight the tenderness, a wide shot of the room to capture the city's nightscape through the window, and a medium shot of the characters to establish their presence and interaction.",
+                                "Shot Composition and Framing": "The close-up will focus on the dumplings and hands, the wide shot will use the rule of thirds to place the window cityscape in the background, and the medium shot will frame the characters in the cozy setting.",
+                                "Character Positioning & Bounding Boxes": "Characters will be positioned in the medium shot with bounding boxes ensuring no overlap: \u5e03\u5e03 on the left and \u4e00\u4e8c on the right, both interacting in the cozy room.",
+                                "Emotional Impact": "Warm lighting will enhance the serene and intimate mood, while the focus on the dumplings will suggest a shared, tender moment.",
+                                "Camera Techniques and Movements": "Static close-up for the hands to emphasize detail, slight tracking in the medium shot to follow character interactions, and a static wide shot to capture the setting.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of hands gently cradling two freshly made dumplings. The warm lighting creates a serene and intimate atmosphere, emphasizing the tenderness of the moment in the \u5e03\u5e03\u4e00\u4e8c cartoon style.",
+                                    "Coarse Plot": "close-up of hands holding dumplings, cute cartoon style",
+                                    "Emotional Enhancement": "The warm lighting and close-up framing enhance the intimacy and tenderness of the moment.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "Medium shot of \u5e03\u5e03 and \u4e00\u4e8c sitting in the cozy living room, subtly illuminated by warm light. The expansive window behind them reveals a stunning view of the city's nightscape, enhancing the serene atmosphere.",
+                                    "Coarse Plot": "two people sitting in a cozy room with a window showing city nightscape",
+                                    "Emotional Enhancement": "The warm, subtle lighting and cityscape view through the window reinforce the serene and intimate mood.",
+                                    "Shot Type": "medium shot",
+                                    "Camera Movement": "slight tracking to follow character interaction",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Wide shot of the living room, with the window prominently displaying the city's nightscape. The cozy setting, with warm lighting, envelops the room, complementing the intimate atmosphere in the \u5e03\u5e03\u4e00\u4e8c style.",
+                                    "Coarse Plot": "wide shot of cozy room with cityscape window",
+                                    "Emotional Enhancement": "The wide shot captures the entire setting, emphasizing the calmness and intimacy of the scene.",
+                                    "Shot Type": "wide shot",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 8": {
+            "Plot": "\u9996\u5148\uff0c\u4e00\u4e2a\u4e2d\u666f\u955c\u5934\u5c55\u793a\u4e86\u5e03\u5e03\u5728\u53a8\u623f\u4e2d\uff0c\u5f00\u5fc3\u5730\u5c06\u4e00\u4e2a\u997a\u5b50\u4e3e\u5230\u955c\u5934\u524d\uff0c\u5979\u7684\u7b11\u5bb9\u5145\u6ee1\u4e86\u6210\u5c31\u611f\u3002",
+            "Involving Characters": [
+                "\u5e03\u5e03"
+            ],
+            "Timeline": "Same day, kitchen scene",
+            "Reason for Division": "This sub-script focuses on \u5e03\u5e03's individual accomplishment and pride in making dumplings.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The synopsis represents a single scene likely within the 'Setup' act, introducing the character \u5e03\u5e03 and providing insight into her actions and emotions. It focuses on a moment of personal achievement and joy.",
+                    "Key Scene Elements": "The key character is \u5e03\u5e03, who is experiencing a moment of happiness and pride. The action revolves around her making a dumpling, which is a significant event showing her culinary skills or personal growth.",
+                    "Scene Boundaries": "The scene begins with \u5e03\u5e03 in the kitchen and ends with her presenting the dumpling. This is a natural break as it encapsulates the entire emotional journey of creating and presenting the dumpling.",
+                    "Cinematic Elements for Each Scene": "The scene should be visually warm and inviting, spotlighting \u5e03\u5e03's smile and the dumpling. Lighting should be bright to reflect her happiness, with a focus on her facial expression and the dumpling being presented. Sound effects might include the gentle clatter of kitchen utensils, with a cheerful, light musical cue to emphasize her joy."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03"
+                        ],
+                        "Plot": "\u5e03\u5e03 is in the kitchen, joyfully presenting a dumpling she has made, her face lit up with accomplishment.",
+                        "Scene Description": "The kitchen is cozy and well-lit, with \u5e03\u5e03 standing at the counter. She holds up a dumpling towards the camera, her face beaming with pride.",
+                        "Emotional Tone": "Joyful and accomplished",
+                        "Visual Style": "Bright and warm, with a focus on \u5e03\u5e03's smile and the dumpling. The setting is intimate and inviting.",
+                        "Key Props": [
+                            "Dumpling"
+                        ],
+                        "Music and Sound Effects": "Light, cheerful music with soft kitchen sounds like utensils clinking.",
+                        "Cinematography Notes": "Use a mid-shot to capture \u5e03\u5e03 and the dumpling, followed by a close-up on her smiling face and then the dumpling. Ensure the lighting highlights her expression and the dumpling's details.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene can be broken down into three key shots: a mid-shot of \u5e03\u5e03 holding the dumpling, a close-up of her face, and a close-up of the dumpling. Each shot captures the emotion of joy and accomplishment while focusing on the key prop, the dumpling.",
+                                "Shot Composition and Framing": "The mid-shot will frame \u5e03\u5e03 and the dumpling, ensuring her expression and the dumpling are clearly visible. The close-ups will focus tightly on \u5e03\u5e03's face and the dumpling, using the rule of thirds to maintain visual interest.",
+                                "Character Positioning & Bounding Boxes": "In the mid-shot, \u5e03\u5e03 will be positioned centrally within the frame. Bounding boxes will ensure \u5e03\u5e03 and the dumpling do not overlap. For the close-ups, the bounding box will focus solely on either \u5e03\u5e03's face or the dumpling.",
+                                "Emotional Impact": "The joyful and accomplished tone will be emphasized through warm lighting and vibrant colors, enhancing \u5e03\u5e03's expression and the dumpling's details. Close-ups will intensify the emotional connection by drawing attention to her pride and the dumpling she has crafted.",
+                                "Camera Techniques and Movements": "The mid-shot will have a slight zoom-in to transition smoothly to the close-up of \u5e03\u5e03's face, followed by a static close-up of the dumpling to emphasize detail.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "In the cozy and well-lit kitchen, \u5e03\u5e03 stands at the counter, joyfully holding up a dumpling. Her face is beaming with pride, reflecting her sense of accomplishment.",
+                                    "Coarse Plot": "person holding dumpling with pride",
+                                    "Emotional Enhancement": "The mid-shot captures \u5e03\u5e03's entire figure and the dumpling, with warm lighting highlighting her joyful expression and the crafted dumpling.",
+                                    "Shot Type": "mid-shot",
+                                    "Camera Movement": "slight zoom-in",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.35,
+                                            0.1,
+                                            0.85,
+                                            0.6
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "Close-up of \u5e03\u5e03's smiling face, her eyes sparkling with joy. The warm kitchen lighting highlights her expression, emphasizing the pride and joy she feels.",
+                                    "Coarse Plot": "close-up of smiling face",
+                                    "Emotional Enhancement": "Tight framing on \u5e03\u5e03's face enhances the sense of joy and accomplishment through detailed expression capture.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of the dumpling in \u5e03\u5e03's hand, showcasing its intricate details. The lighting accentuates the dumpling's texture and craftsmanship, a symbol of her pride.",
+                                    "Coarse Plot": "close-up of dumpling",
+                                    "Emotional Enhancement": "The static close-up focuses on the dumpling, emphasizing its importance and the skill involved in its creation.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 9": {
+            "Plot": "\u63a5\u7740\uff0c\u955c\u5934\u5207\u6362\u5230\u4e00\u4e8c\u7684\u7279\u5199\uff0c\u5979\u4e13\u6ce8\u5730\u7528\u624b\u6307\u7075\u5de7\u5730\u634f\u5408\u997a\u5b50\u76ae\uff0c\u9762\u524d\u7684\u997a\u5b50\u6574\u9f50\u6392\u5217\u3002",
+            "Involving Characters": [
+                "\u4e00\u4e8c"
+            ],
+            "Timeline": "Same day, kitchen scene",
+            "Reason for Division": "This sub-script highlights \u4e00\u4e8c's skill and concentration, contrasting with \u5e03\u5e03's earlier achievement.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The narrative focuses on a simple yet meaningful action of making dumplings, which likely falls into the Setup act, establishing character and atmosphere. The critical part of this scene is to highlight the character's skill and concentration while performing this task, setting the tone for their personality and possible relationship dynamics.",
+                    "Key Scene Elements": "The character involved is \u4e00\u4e8c. The scene captures her skill and focus as she dexterously shapes dumplings with her fingers. This action not only introduces her character but also implies a setting that is intimate and possibly shared with someone she cares about, namely \u5e03\u5e03.",
+                    "Scene Boundaries": "The scene is self-contained, focusing on the intimate act of making dumplings. The scene begins with a close-up of her hands and ends with a display of neatly arranged dumplings, creating a natural start and finish.",
+                    "Cinematic Elements for Each Scene": "The scene should visually emphasize \u4e00\u4e8c's hands and the dumplings. The emotional tone is serene and focused. The lighting should be warm and inviting, suggesting comfort and familiarity. Key props include dumpling skins and the arranged dumplings themselves. The gentle sounds of dough being worked and a soft, soothing background score would enhance the mood. Cinematography should focus on close-ups of hands and dumplings, with a shift to a wide shot to reveal the arrangement of dumplings."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "\u4e00\u4e8c is deeply focused as she skillfully shapes dumpling skins with her fingers. In front of her, the dumplings are arranged neatly.",
+                        "Scene Description": "The camera captures a close-up of \u4e00\u4e8c's hands deftly working the dumpling skins. The environment feels warm and cozy, with the dumplings symbolizing care and attention to detail.",
+                        "Emotional Tone": "Serene and focused",
+                        "Visual Style": "Warm, inviting lighting with a cute, cartoonish style that emphasizes charm and skill.",
+                        "Key Props": [
+                            "Dumpling skins",
+                            "Arranged dumplings"
+                        ],
+                        "Music and Sound Effects": "Gentle ambient music with the soft sounds of dough handling.",
+                        "Cinematography Notes": "Close-up shots of hands shaping dumplings, followed by a wide shot to show the neatly arranged dumplings. Emphasize the detail in her work with a cute style reminiscent of the \u300c\u5e03\u5e03\u4e00\u4e8c\u300dcartoon.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene should begin with a close-up of \u4e00\u4e8c's hands shaping dumpling skins to capture her focus and skill. This will be followed by a detailed shot of the arranged dumplings, symbolizing her attention to detail. The shots must convey serenity and focus.",
+                                "Shot Composition and Framing": "For the close-up, use tight framing on \u4e00\u4e8c's hands to highlight the dexterity and care in shaping dumplings. The wide shot should capture the entire arrangement of dumplings, using the rule of thirds to frame the scene effectively.",
+                                "Character Positioning & Bounding Boxes": "With only \u4e00\u4e8c involved, her hands will be the focus in the first shot, fitting within a [0.2, 0.3, 0.8, 0.7] bounding box. The subsequent shot of the dumplings will not involve characters.",
+                                "Emotional Impact": "The serene and focused tone is enhanced by warm lighting and a soft depth of field, drawing attention to the delicate movements of \u4e00\u4e8c's hands and the meticulous arrangement of dumplings.",
+                                "Camera Techniques and Movements": "The camera will remain static in the close-up to emphasize focus. A gentle pan across the arranged dumplings in the wide shot will reinforce the sense of care and completion.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.2,
+                                            0.3,
+                                            0.8,
+                                            0.7
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "Close-up of \u4e00\u4e8c's hands skillfully shaping dumpling skins, her fingers moving with precision and care. The environment is warm, suggesting a cozy and serene atmosphere in the style of \u5e03\u5e03\u4e00\u4e8c.",
+                                    "Coarse Plot": "close-up of hands shaping dumplings",
+                                    "Emotional Enhancement": "Warm lighting and soft focus enhance the serene and focused tone.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Wide shot of neatly arranged dumplings on a table, each perfectly crafted. The lighting remains warm, highlighting the care and attention to detail that went into their creation, depicted in \u5e03\u5e03\u4e00\u4e8c cartoon style.",
+                                    "Coarse Plot": "wide shot of arranged dumplings",
+                                    "Emotional Enhancement": "The warm lighting and wide shot convey completion and satisfaction.",
+                                    "Shot Type": "wide shot",
+                                    "Camera Movement": "gentle pan",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 10": {
+            "Plot": "\u7136\u540e\uff0c\u4e00\u4e2a\u5168\u666f\u955c\u5934\u5c55\u793a\u53a8\u623f\u7684\u6574\u4f53\u73af\u5883\uff0c\u9762\u7c89\u548c\u997a\u5b50\u76ae\u6563\u843d\u5728\u684c\u9762\u4e0a\uff0c\u8425\u9020\u51fa\u6d53\u539a\u7684\u5bb6\u5ead\u6c1b\u56f4\u3002",
+            "Involving Characters": [],
+            "Timeline": "Same day, kitchen scene",
+            "Reason for Division": "This sub-script provides an overview of the kitchen setting, emphasizing the domestic and familial atmosphere.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The synopsis suggests a slice-of-life scene that might belong to the 'Setup' act of a larger narrative. The focus is on establishing an atmosphere and setting, possibly as a precursor to a more dynamic event involving the characters.",
+                    "Key Scene Elements": "The key elements include the kitchen setting, props like flour and dumpling skins, and the implied presence of characters \u5e03\u5e03 and \u4e00\u4e8c whose relationship is friendly or romantic, setting up a warm domestic scene.",
+                    "Scene Boundaries": "The scene naturally begins with the establishing shot of the kitchen and ends as it captures the atmosphere of a family setting. This boundary is appropriate as it sets the emotional backdrop and context for further character interaction.",
+                    "Cinematic Elements for Each Scene": "The scene should have a cozy, warm color palette with soft lighting to emphasize the domestic and intimate setting. The focus should be on the props, such as the flour and dumpling skins, to convey a sense of homeliness. Background sounds could include gentle kitchen noises, like a kettle boiling, to enhance the atmosphere."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "The scene opens with a panoramic view of a kitchen, highlighting the scattered flour and dumpling skins on the table, establishing a warm family ambiance.",
+                        "Scene Description": "A wide shot captures the kitchen in its entirety. Flour is dusted across the table, and dumpling skins are ready to be filled, suggesting the presence of ongoing culinary activities.",
+                        "Emotional Tone": "Warm and homely",
+                        "Visual Style": "Soft lighting with a warm color palette, typical of a cozy family kitchen. The style should be consistent with the cartoon/cute aesthetic of \u5e03\u5e03 and \u4e00\u4e8c.",
+                        "Key Props": [
+                            "Flour",
+                            "Dumpling skins"
+                        ],
+                        "Music and Sound Effects": "Background sounds of a bustling kitchen, like a boiling kettle or soft music playing on a radio, to enhance the cozy atmosphere.",
+                        "Cinematography Notes": "Use a wide shot to establish the setting, followed by close-ups on the flour and dumpling skins to emphasize their importance. The camera should then pan slowly to convey the tranquility and warmth of the scene.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene requires several shots: a wide shot to establish the kitchen setting and convey warmth, close-ups of key props like flour and dumpling skins to emphasize ongoing activities, and a slow pan to capture the tranquil atmosphere.",
+                                "Shot Composition and Framing": "The wide shot should use the rule of thirds to showcase the kitchen, while close-ups should focus on key props with warm lighting to maintain the homely tone.",
+                                "Character Positioning & Bounding Boxes": "Characters will be introduced in a later shot, focusing initially on the environment and props to build anticipation.",
+                                "Emotional Impact": "The warm lighting and close-up details enhance the homely and comforting atmosphere, reinforcing the theme of togetherness and culinary tradition.",
+                                "Camera Techniques and Movements": "Start with a static wide shot to establish the scene, followed by close-ups, and incorporate a slow pan to maintain the tranquil and warm tone.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "A wide shot captures the entire kitchen, with flour and dumpling skins scattered, creating a warm and inviting family ambiance. The lighting is soft, emphasizing the cozy atmosphere.",
+                                    "Coarse Plot": "wide shot of kitchen, flour and dumpling skins visible",
+                                    "Emotional Enhancement": "Warm lighting and the inclusion of scattered flour and dumpling skins enhance the homely feeling.",
+                                    "Shot Type": "wide shot",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of flour dusted across the table, capturing the texture and the essence of culinary preparation. The lighting highlights the individual grains, adding to the warmth.",
+                                    "Coarse Plot": "close-up of flour on table",
+                                    "Emotional Enhancement": "The close-up detail and lighting create a sense of warmth and focus on the culinary process.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of dumpling skins arranged neatly, ready to be filled. The lighting is gentle, showcasing the soft texture and inviting appearance of the skins.",
+                                    "Coarse Plot": "close-up of dumpling skins",
+                                    "Emotional Enhancement": "Gentle lighting on the dumpling skins enhances their inviting and homely appeal.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 4": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "The camera pans slowly across the kitchen, capturing the tranquil and warm atmosphere with flour and dumpling skins in view, suggestive of familial bonding over cooking.",
+                                    "Coarse Plot": "slow pan across kitchen",
+                                    "Emotional Enhancement": "The slow pan reinforces a sense of tranquility and warmth, suggesting togetherness.",
+                                    "Shot Type": "pan",
+                                    "Camera Movement": "slow pan",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 11": {
+            "Plot": "\u63a5\u7740\uff0c\u955c\u5934\u5207\u6362\u5230\u5ba2\u5385\uff0c\u4e00\u4e2a\u7279\u5199\u955c\u5934\u62cd\u6444\u4e00\u53cc\u624b\u8f7b\u8f7b\u6367\u7740\u4e24\u4e2a\u521a\u5305\u597d\u7684\u997a\u5b50\uff0c\u624b\u6307\u8f7b\u67d4\u5730\u6258\u7740\u997a\u5b50\uff0c\u663e\u5f97\u73cd\u60dc\u3002",
+            "Involving Characters": [],
+            "Timeline": "Same day, evening",
+            "Reason for Division": "This sub-script shifts focus to the emotive handling of the dumplings, symbolizing care and affection.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The scene is primarily a setup, establishing a tender moment between characters. It focuses on a specific emotional beat involving an intimate activity (making dumplings), which could act as a symbol of their relationship.",
+                    "Key Scene Elements": "The scene involves two characters, \u5e03\u5e03 and \u4e00\u4e8c, who are friends or possibly romantic partners. The key element of this scene is the delicate act of holding freshly made dumplings, symbolizing care and affection.",
+                    "Scene Boundaries": "A natural break is present due to the close-up of hands and the focus on the dumplings, which signifies a shift to an intimate, personal moment between characters.",
+                    "Cinematic Elements for Each Scene": "The scene uses a close-up shot to capture the tenderness and care between the characters. The emotional tone is gentle and affectionate, with a focus on soft visuals and an intimate atmosphere."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "The scene shows a close-up of hands gently holding two freshly made dumplings, symbolizing the care and affection between \u5e03\u5e03 and \u4e00\u4e8c.",
+                        "Scene Description": "In a cozy living room, the camera focuses on a pair of hands gently cradling two freshly made dumplings, fingers softly supporting them, conveying a sense of treasuring the moment.",
+                        "Emotional Tone": "Tender and affectionate",
+                        "Visual Style": "Soft, warm lighting with a close-up shot to emphasize the delicacy and intimacy of the moment.",
+                        "Key Props": [
+                            "Dumplings"
+                        ],
+                        "Music and Sound Effects": "Soft, gentle music to enhance the intimate and tender atmosphere.",
+                        "Cinematography Notes": "Use a close-up shot to focus on the hands and dumplings, capturing the delicate interaction. Ensure the lighting highlights the texture of the dumplings and the tenderness of the touch.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "The scene focuses on a single close-up shot to capture the essence of the emotional moment: hands holding dumplings. This shot is crucial as it symbolizes the tender relationship between the characters.",
+                                "Shot Composition and Framing": "A close-up shot is selected to emphasize the hands and dumplings, ensuring the dumplings are centered and hands are gently cradling them. The lighting will highlight the texture of the dumplings.",
+                                "Character Positioning & Bounding Boxes": "There are no characters visible in the frames since it is a close-up of hands, thus the character positioning is not applicable. Focus on the dumplings and hands.",
+                                "Emotional Impact": "The tender and affectionate tone is enhanced by the warm lighting and the close, intimate framing of the shot which conveys the care in the gesture.",
+                                "Camera Techniques and Movements": "A static camera is used to maintain focus on the hands and dumplings, allowing the viewer to absorb the tenderness of the moment.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of hands gently cradling two freshly made dumplings, with warm, soft lighting highlighting the texture and care in the touch. The background is blurred to focus on the interaction, in \u5e03\u5e03\u4e00\u4e8c cartoon style.",
+                                    "Coarse Plot": "close-up of hands holding dumplings, cute cartoon style",
+                                    "Emotional Enhancement": "The warm lighting and soft focus enhance the tenderness, highlighting the affection in the gesture.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sub-Script 12": {
+            "Plot": "\u6700\u540e\uff0c\u955c\u5934\u62c9\u8fdc\uff0c\u5c55\u793a\u51fa\u7a97\u5916\u7684\u57ce\u5e02\u591c\u666f\uff0c\u900f\u8fc7\u7a97\u6237\u9690\u7ea6\u53ef\u89c1\uff0c\u4e3a\u6574\u4e2a\u753b\u9762\u589e\u6dfb\u4e86\u4e00\u4e1d\u6e29\u99a8\u4e0e\u6d6a\u6f2b\u3002",
+            "Involving Characters": [],
+            "Timeline": "Same day, evening",
+            "Reason for Division": "This sub-script concludes with a scenic view, providing a thematic closure with warmth and romance.",
+            "Scene Annotation": {
+                "Internal Chain-of-Thought": {
+                    "Narrative Structure": "The script synopsis provided is a scene that likely belongs to the Resolution act of a narrative. It concludes with a scene capturing a sense of closure and warmth, hinting at a possible romantic development between the characters \u5e03\u5e03 and \u4e00\u4e8c.",
+                    "Key Scene Elements": "The key elements here involve the city nightscape and the window through which the characters, \u5e03\u5e03 and \u4e00\u4e8c, perceive this view. Their relationship, possibly romantic, adds emotional depth to the scene.",
+                    "Scene Boundaries": "The scene is defined by its focus on the window and city nightscape, with an emotional climax that leaves a lingering warmth and romance. The boundaries are clear as it naturally wraps up the narrative arc.",
+                    "Cinematic Elements for Each Scene": "The scene's cinematic elements should emphasize warmth and romance. Visuals should include a cozy interior juxtaposed against the expansive city nightscape. Soft, warm lighting and gentle ambient music are key to enhancing the scene's emotional undertone."
+                },
+                "Scene": {
+                    "Scene 1": {
+                        "Involving Characters": [
+                            "\u5e03\u5e03",
+                            "\u4e00\u4e8c"
+                        ],
+                        "Plot": "In a cozy room, \u5e03\u5e03 and \u4e00\u4e8c stand by a window, looking out at the city nightscape. The view through the window adds warmth and romance to the atmosphere, hinting at their close relationship.",
+                        "Scene Description": "The scene captures the intimate setting of the room, softly lit to contrast with the twinkling city lights outside. The window serves as a frame for the city's nightscape, adding a layer of warmth and romance to the moment.",
+                        "Emotional Tone": "Warm and romantic",
+                        "Visual Style": "Soft and warm lighting with a focus on the gentle contrast between the cozy interior and the expansive city view. The intimate framing of the characters by the window enhances the emotional connection.",
+                        "Key Props": [
+                            "Window",
+                            "City Nightscape"
+                        ],
+                        "Music and Sound Effects": "Gentle ambient music with soft piano notes to underscore the romantic undertones. The faint sound of distant city life adds depth to the atmosphere.",
+                        "Cinematography Notes": "Utilize medium shots to frame \u5e03\u5e03 and \u4e00\u4e8c together by the window, with close-ups on their expressions to capture the emotional nuance. Wide shots to include the cityscape in the background, enhancing the sense of warmth.",
+                        "Shot Annotation": {
+                            "Internal Chain-of-Thought": {
+                                "Break Down Scene into Key Shots": "Key shots should include a medium shot of \u5e03\u5e03 and \u4e00\u4e8c by the window, a close-up of their expressions to capture the emotional nuance, and a wide shot that includes the cityscape to enhance the sense of warmth. These shots will convey the intimate and romantic atmosphere effectively.",
+                                "Shot Composition and Framing": "The medium shot will frame \u5e03\u5e03 and \u4e00\u4e8c together by the window, capturing both their expressions and the city nightscape. The close-up will focus on their faces, using the rule of thirds to align their eyes. The wide shot will include the window and cityscape, using leading lines to guide the viewer's eye.",
+                                "Character Positioning & Bounding Boxes": "In the medium shot, \u5e03\u5e03 and \u4e00\u4e8c should be evenly distributed on either side of the window, with \u5e03\u5e03 on the left and \u4e00\u4e8c on the right, adhering to bounding box constraints. The close-up shot will focus on \u5e03\u5e03's face, filling the frame within the bounding box limits.",
+                                "Emotional Impact": "The warm lighting will contrast the twinkling city lights outside, reinforcing the romantic tone. Close-ups will emphasize their emotional connection, while the wide shot will maintain the warmth of the setting.",
+                                "Camera Techniques and Movements": "The medium shot will be static to emphasize the stability and closeness of their relationship. The close-up will also be static to focus on emotional nuance, and the wide shot will be static to capture the scene's entirety.",
+                                "No dialogue / no subtitles": "All shots use Subtitles: {}."
+                            },
+                            "Shot": {
+                                "Shot 1": {
+                                    "Involving Characters": {
+                                        "Character 1": [
+                                            0.1,
+                                            0.06,
+                                            0.49,
+                                            1.0
+                                        ],
+                                        "Character 2": [
+                                            0.58,
+                                            0.04,
+                                            0.95,
+                                            1.0
+                                        ]
+                                    },
+                                    "Plot/Visual Description": "\u5e03\u5e03 and \u4e00\u4e8c stand by the window, looking out at the city nightscape. The soft light from the room contrasts with the twinkling city lights, creating a warm and romantic atmosphere. They are positioned on either side of the window, their bodies slightly turned toward each other, suggesting an intimate connection.",
+                                    "Coarse Plot": "two people standing by window",
+                                    "Emotional Enhancement": "The static medium shot emphasizes the stability and warmth of their relationship, highlighted by the soft lighting and cityscape.",
+                                    "Shot Type": "medium shot",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 2": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Close-up of \u5e03\u5e03's face, softly lit with a gentle expression, capturing the warmth of the moment. The background is a blur of city lights outside the window, adding to the serene and romantic atmosphere.",
+                                    "Coarse Plot": "close-up of one face, warm lighting",
+                                    "Emotional Enhancement": "The close-up captures \u5e03\u5e03's gentle expression, enhancing the emotional nuance through soft lighting and background blur.",
+                                    "Shot Type": "close-up",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                },
+                                "Shot 3": {
+                                    "Involving Characters": {},
+                                    "Plot/Visual Description": "Wide shot of the room with \u5e03\u5e03 and \u4e00\u4e8c by the window. The city nightscape is visible, twinkling with lights. The room is softly lit, creating a cozy and romantic atmosphere.",
+                                    "Coarse Plot": "wide shot of room with city view",
+                                    "Emotional Enhancement": "The wide shot includes the entire setting, reinforcing the warmth and romance of the scene through the contrast of indoor lighting and the cityscape.",
+                                    "Shot Type": "wide shot",
+                                    "Camera Movement": "static",
+                                    "Subtitles": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

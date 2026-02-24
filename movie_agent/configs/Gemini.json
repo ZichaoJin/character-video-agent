@@ -1,0 +1,4 @@
+{
+  "gemini_model": "gemini-3-pro-image-preview",
+  "gemini_api_key_env": "GOOGLE_API_KEY"
+}

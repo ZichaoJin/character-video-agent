@@ -1,0 +1,31 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.so
+.Python
+.env
+.env.local
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 数据与产出（按需取消注释）
+# dataset/
+# outputs/
+# movie_agent/save/
+
+# 模型权重 / 大文件
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+.ipynb_checkpoints
+.env_movieagent
