@@ -32,10 +32,14 @@ app = FastAPI(title="MovieAgent API", version="1.0")
 # ── auth ──────────────────────────────────────────────────────────────────────
 
 _BEARER = HTTPBearer(auto_error=False)
-_API_TOKEN: str = os.environ.get("API_TOKEN", "mzc-secret-2026-xK9pQ")
+# Require API_TOKEN to be provided via environment variable. Do NOT keep a
+# hard-coded default here to avoid accidental public exposure.
+_API_TOKEN: str = os.environ.get("API_TOKEN", "")
 
 
 def verify_token(credentials: HTTPAuthorizationCredentials = Security(_BEARER)):
+    if not _API_TOKEN:
+        raise HTTPException(status_code=500, detail="Server misconfiguration: API_TOKEN not set")
     if credentials is None or credentials.credentials != _API_TOKEN:
         raise HTTPException(status_code=401, detail="Invalid or missing token")
 
